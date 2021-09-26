@@ -4,11 +4,11 @@ import './Header.css';
 const Header = () => {
     return (
         <div>
-           <div className='header-contaier'>
-           <h1 className='main-heading'>Introduce Us</h1>
-            <p>Deatails of Citizen in Our Country.In this web page we are collect many data.</p>
-            <p className='resonable-salary-main'>Resonable salary : <span className='resonable-salary'>10000</span> </p>
-           </div>
+            <div className='header-contaier'>
+                <h1 className='main-heading'>Hire Best Developer In BD</h1>
+                <h3>The most populer 15th developer name hare in Bangladesh </h3>
+                <p className='Resonable-salary-main'>Resonable salary : <span className='resonable-salary'>1 Milion USD</span> </p>
+            </div>
         </div>
     );
 };

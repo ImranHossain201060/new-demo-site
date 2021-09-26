@@ -1,17 +1,17 @@
 
 .header-contaier {
     text-align: center;
-    background: #1d2730;
+    background: rgb(236, 221, 221);
     padding: 20px 0;
 }
 
 .main-heading {
-    color: rgb(0, 162, 255);
+    color: yellowgreen;
     font-size: 40px;
 }
 
 .resonable-salary {
-    color: rgb(0, 162, 255);
+    color: #0dcaf0;
     font-weight: bold;
 }
 
